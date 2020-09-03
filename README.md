@@ -1,7 +1,7 @@
 
 # Open Source Graphs_Project
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-Graphs__Project-blue)
-[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Graphs_Project)](https://github.com/GabrielFSSantos/Graphs_Project/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Graphs_Project)](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE)
 
 > :chart_with_upwards_trend: Graphs_Project é um algoritmo de estudo de grafos, ele recebe um grafo realiza uma análise passando por várias representações de algoritmos conhecidos como dijkstra, após a análise ele retorna as principais características do grafo:
 > * Se é conexo, completo e direcionado.
@@ -24,7 +24,7 @@
 * [StackEdit] - Excelente editor de Markdown online.
 
 ## License
-[MIT License](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md) ©
+[MIT License](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE)
 
 
 
