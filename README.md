@@ -3,10 +3,10 @@
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-Graphs__Project-blue)
 [![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Graphs_Project)](https://github.com/GabrielFSSantos/Graphs_Project/blob/master/LICENSE.md)
 
-> :chart_with_upwards_trend:  Graphs_Project é um algorito de estudo de grafos, ele recebe um grafo realiza uma analize passando por varias representações de algoritimos conhecidos como dijkstra, após a analise ele retorna as principais caracteristicas do grafo:
-> * Se é conexo, completo e direcionado
-> * Quantidade de arestas e vertices e seus componentes
-> * Suas representações de lista adjacente, matriz adjacente, matriz de incidencia, dijkstra, grafo completo, circuito euleriano, ordenação topologica, busca em largura e busca em profundidade  <br>
+> :chart_with_upwards_trend: Graphs_Project é um algoritmo de estudo de grafos, ele recebe um grafo realiza uma análise passando por várias representações de algoritmos conhecidos como dijkstra, após a análise ele retorna as principais características do grafo:
+> * Se é conexo, completo e direcionado.
+> * Quantidade de arestas e vértices e seus componentes.
+> * Suas representações de lista adjacente, matriz adjacente, matriz de incidência, dijkstra, grafo completo, circuito euleriano, ordenação topológica, busca em largura e busca em profundidade. <br>
 
 > :books: O projeto foi desenvolvido com o intuito de exercitar meus conhecimentos de programação e para fins didáticos.
 
